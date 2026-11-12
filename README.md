@@ -109,3 +109,4 @@ Envoyez à votre enseignant :
 - les **pseudos GitHub** des membres.
 
 Bon atelier !
+Version actuelle : v1.0.1
