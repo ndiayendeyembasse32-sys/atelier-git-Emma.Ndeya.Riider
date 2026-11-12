@@ -8,7 +8,6 @@ h2 {
 @media (max-width: 600px) {
   h1 { font-size: 1.5rem; }
   h2 { font-size: 1.2rem; }
-=======
 .dark {
   background-color: black;
   color: white;
